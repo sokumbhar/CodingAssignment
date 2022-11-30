@@ -3,16 +3,17 @@ Our custom-build server logs different events to a file named logfile.txt. Every
 - one entry when the event was started and another when the event was finished. The entries in the file
 have no specific order
 
-To run the app
+#To run the app
 Clone the git repo
 git clone https://github.com/sokumbhar/CodingAssignment.git
+
 Open the project in an IDE of your choice.
 
-Run the main application - com.github.sokumbhar.CodingAssignment.MyApplication
+#Run the main application - com.github.sokumbhar.CodingAssignment.MyApplication
 
 Create/Update the Run Configuration for the class to provide the program argument.
 
-A sample log file is available in resources/Events.txt
+#A sample log file is available in resources/Events.txt
 Summary of task
 Our custom-build server logs different events to a file named logfile.txt. Every event has 2 entries in the file - one entry when the event was started and another when the event was finished. The entries in the file have no specific order (a finish event could occur before a start event for a given id).
 
