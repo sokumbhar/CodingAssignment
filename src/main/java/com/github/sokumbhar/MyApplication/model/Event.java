@@ -1,4 +1,4 @@
-package com.github.sokumbhar.MyApplication.config;
+package com.github.sokumbhar.MyApplication.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
