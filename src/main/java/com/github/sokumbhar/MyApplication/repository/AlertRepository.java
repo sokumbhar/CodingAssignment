@@ -1,4 +1,4 @@
-package com.github.sokumbhar.MyApplication.config;
+package com.github.sokumbhar.MyApplication.repository;
 
 import com.interview.anandankush0908.loganalyzer.persistence.model.Alert;
 import org.springframework.data.repository.CrudRepository;
